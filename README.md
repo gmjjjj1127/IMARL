@@ -1,4 +1,4 @@
-# IMARL: Interpretable Multi-Modal Attentive Representation Learning for Accurate RNA Property Prediction
+# ITARL: Interpretable Multi-Modal Attentive Representation Learning for Accurate RNA Property Prediction
 
 For any questions or further information, please reach out to Haitao Fu (Email: fuhaitao@hubu.edu.cn, https://ai.hubu.edu.cn/info/1025/2041.htm).
 
